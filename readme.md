@@ -1,0 +1,1 @@
+Herança, reescrita e polimorsmo, reutilizar código escrito anteriormente, criar classes lhas e reescrever métodos;
